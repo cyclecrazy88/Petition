@@ -12,3 +12,6 @@ npm install body-parser
 
 Open port required: 9080
 Start: node ./webServer.js
+
+Dependances:
+This project uses a mixture of Backbone.js, Tensorflow.js, Matterialize CSS, Vue.js and Vuetify for the GUI rendering and data processing.
