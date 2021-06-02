@@ -1,0 +1,52 @@
+
+
+div.outerContainer{
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:50px;
+	bottom:0px;
+	margin:5px;
+	border-style:solid;
+	border-width:1px;
+	border-color:lightgray;
+}
+
+div.dateContainer{
+	position:absolute;
+	right:0px;
+	top:0px;
+	height:30px;
+	width:400px;
+	border-style:solid;
+	border-width:1px;
+	border-color:lightgray;
+}
+
+div.activityContainer{
+	position:absolute;
+	left:0px; right:0px; top:45px; bottom:0px;
+	border-style:solid;
+	border-width:1px;
+	border-color:lightgray;
+}
+
+div.itemSelectionContainer{
+	position:absolute;
+	width:400px;right:405px;top:0px;height:45px;
+	border-style:solid;
+	border-width:1px;
+	border-color:lightgray;
+}
+
+div.headingContainer{
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	height:45px;
+	border-style:solid;
+	border-width:1px;
+	border-color:lightgray;
+	margin:5px;
+}

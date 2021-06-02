@@ -1,0 +1,44 @@
+<div class="modalArea">
+	<v-app id="inspire">
+		<v-row justify="center">
+      <v-dialog
+        v-model="dialog" persistent max-width="1500">
+        <v-card>
+          <v-card-title class="headline">
+          	Petition Information For Selection - ({{content.action}})
+          </v-card-title>
+          
+          <v-card-text>{{content.additional_details}}</v-card-text>
+          <v-card-text>{{content.background}}</v-card-text>
+          <v-card-text>Created By: {{content.creator_name}} at {{contentCreated}}</v-card-text>
+          <v-card-text>Threshold Reached At: {{thresholdReached}}</v-card-text>
+          <v-card-text>Petition Count: {{content.signature_count}}</v-card-text>
+          
+          <div class="summaryDataTable">
+          	<v-data-table
+   			   :headers="dataHeadings"
+   			   :items="dataContent"
+    		  :items-per-page="5"
+    		  class="elevation-1"></v-data-table>
+          </div>
+          
+          <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn
+              color="green darken-1"
+              text
+              @click="dialog = false; document.querySelector('.modalArea').remove();"
+            >
+              Okay
+            </v-btn>
+          </v-card-actions>
+          
+          
+        </v-card>
+      </v-dialog>
+    </v-row>
+	</v-app>
+
+
+</div>
+

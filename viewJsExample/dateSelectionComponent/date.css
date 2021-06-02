@@ -1,0 +1,12 @@
+
+div.datePickerContainer{
+	position:absolute;
+	left:0px;right:0px;top:0px;bottom:0px;
+	display:grid;
+	grid-template-columns: 20% 30% 20% 30%;
+}
+
+div.datePickerContainer input{
+	width:100px;
+}
+

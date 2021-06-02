@@ -1,0 +1,24 @@
+<div class="itemSummaryContainer">
+	<div class="itemLabel">Most popular words used</div>
+	
+	<v-simple-table>
+		<template v-slot:default>
+			<thead>
+				<tr>
+					<th class="text-left">
+					Word
+				</th>
+				<th class="text-left">
+					Count
+				</th>
+				</tr>
+			</thead>
+			<tbody>
+			<tr v-for="item in words":key="item.name" @click="rowClick($event)">
+				<td>{{ item.word }}</td>
+				<td>{{ item.count }}</td>
+			</tr>
+        </tbody>
+      </template>
+    </v-simple-table>
+</div>

@@ -1,0 +1,66 @@
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="./dateSelectionComponent/date.css"/>
+		<link type="text/css" rel="stylesheet" href="./styles/main.css"/>
+		
+		<link type="text/css" rel="stylesheet" href="./materialize/css/materialize.css"/>
+		
+		<link type="text/css" rel="stylesheet" href="./petitionListComponent/tableView.css"/>
+		
+		<link type="text/css" rel="stylesheet" href="./textSelectComponent/itemText.css"/>
+		<link type="text/css" rel="stylesheet" href="./headingComponent/heading.css"/>
+		<link type="text/css" rel="stylesheet" href="./modalComponent/modal.css"/>
+		<link type="text/css" rel="stylesheet" href="./externalStyles/vuetify.min.css"/>
+		
+	</head>
+	<body>
+		<script type="text/javascript"
+				src="./externalScripts/jquery-3.1.1.js">
+		</script>
+		<script type="text/javascript" src="./externalScripts/vue2.min.js"></script>
+		<script type="text/javascript" src="./externalScripts/vuetify.min.js"></script>
+		
+		<script type="text/javascript" src="././materialize/js/materialize.js"></script>
+		
+		<script type="text/javascript"
+				src="./externalScripts/underscore.js">
+		</script>
+		<script type="text/javascript"
+				src="./externalScripts/backbone.js">
+		</script>
+		
+		<script type="text/javascript" src="./dateSelectionComponent/date.js">
+		</script>
+		
+		<script type="text/javascript" src="./scripts/requestPetitions.js"></script>
+		<script type="text/javascript" src="./petitionListComponent/tableView.js"></script>
+		<script type="text/javascript" src="./scripts/processPetitionsFilter.js"></script>
+		
+		<script type="text/javascript" src="./textSelectComponent/itemText.js"></script>
+		<script type="text/javascript" src="./headingComponent/heading.js"></script>
+		<script type="text/javascript" src="./modalComponent/modal.js"></script>
+		
+		
+		
+		<div class="headingContainer"></div>
+		
+		<div class="outerContainer">
+			<div class="itemSelectionContainer"></div>
+			<div class="dateContainer"></div>
+			<div class="activityContainer"></div>
+			<div class="itemSummaryContainer"></div>
+		</div>
+	
+		<script>
+		window.onload = async function(){
+			var heading = new HeadingComponent()
+		
+			var date = new DateComponent()
+			
+			var itemText = new ItemText()
+			
+		}
+		</script>
+	</body>
+
+</html>

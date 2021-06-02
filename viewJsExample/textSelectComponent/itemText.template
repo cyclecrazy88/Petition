@@ -1,0 +1,7 @@
+<div class="itemSelectionContainer">
+	<v-text-field label="Search" @change="changeText($event)"></v-text-field>
+</div>
+
+
+
+

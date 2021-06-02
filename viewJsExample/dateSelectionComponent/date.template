@@ -1,0 +1,11 @@
+<div class="dateContainer">
+<div class="datePickerContainer">
+	<div class="dateStartLabel">Start:</div>
+	<div class="dateStart">
+		<input type="input" class="dateInputStart" v-model="start" @change="startAction($event)" />
+	</div>
+	<div class="dateEndLabel">End:</div>
+	<div class="dateEnd">
+		<input type="input" class="dateInputEnd" v-model="end" @change="endAction($event)" />
+	</div>
+</div></div>

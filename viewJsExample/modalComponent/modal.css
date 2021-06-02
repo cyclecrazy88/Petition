@@ -1,0 +1,27 @@
+
+div.modalCardItem{
+	position:relative;
+	width:100%;
+	padding-left:25px;
+	padding-right:25px;
+}
+
+div.summaryDataTable{
+	position:relative;
+	margin-left:25px;
+	margin-right:25px;
+	width:95%;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+div.summaryDataTable button.v-btn[aria-label="Next page"]:not([disabled="disabled"]){
+	/*background-color:#3b7c15;*/
+	background-image:url('../icons/nextSmall.png');
+	background-size:cover;
+}
+
+div.summaryDataTable button.v-btn[aria-label="Previous page"]:not([disabled="disabled"]){
+	background-image:url('../icons/previousSmall.png');
+	background-size:cover;
+}

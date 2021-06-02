@@ -1,0 +1,16 @@
+<div class="tableViewContainer activityContainer">
+	<div class="tableListItems">
+		<div>Action</div>
+		<div>Additional Details</div>
+		<div>Background</div>
+		<div>Signature Count</div>
+	</div>
+
+	<div class="tableListItems" v-bind:id="tableRow.id" v-for="tableRow in tableContainer" @click="tableViewClickItem($event)" >
+		<div v-bind:action="tableRow.action">{{tableRow.action}}</div>
+		<div v-bind:action="tableRow.additional_details">{{tableRow.additional_details}}</div>
+		<div v-bind:action="tableRow.background">{{tableRow.background}}</div>
+		<div v-bind:action="tableRow.signature_count">{{tableRow.signature_count}}</div>
+		
+	</div>
+</div>

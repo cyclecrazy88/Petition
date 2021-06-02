@@ -1,0 +1,35 @@
+div.tableViewContainer{
+	position:absolute;
+	
+	overflow:auto;
+	top:60px;
+	right:200px;
+	left:0px;
+	bottom:0px;
+}
+
+div.itemSummaryContainer{
+	position:absolute;
+	width:195px;
+	right:0px;
+	top:50px;
+	bottom:0px;
+	overflow:auto;
+}
+
+div.tableListItems{
+	display:grid;
+	grid-template-columns:30% 30% 30% 10%;
+	position:relative;
+	width:100%;
+}
+
+itemSummaryContainer.itemLabel{
+	text-align:center;
+	font-size:1.1em;
+}
+
+div.tableListItems div{
+	margin-right:10px;
+	margin-left:3px;
+}
