@@ -1,7 +1,14 @@
 <div class="modalItem">
 	<div class="modalBackground" @click="closeModal($event)"></div>
 	<div class="modalContents">
-		<div class="closeButton">Close</div>
+		<div class="closeButton" @click="closeModal($event)">Close</div>
+		
+		<div class="headingTitle">{{title}}</div>
+		<div class="headingDesc">{{desc}}</div>
+		<div class="publishedDate">{{pubDate}}</div>
+		
+		
+		
 	</div>
 
 </div>

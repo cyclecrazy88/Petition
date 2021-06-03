@@ -1,10 +1,15 @@
 NodeJs/Express Petition Demo Program
 
-This program is a demo test application which is designed to look at the Petition data feed from https://petition.parliament.uk/ and show stats about Petitions which are currently open.
+Note - This project is an experimental test looking at the use of Vue.js/Matterialize and NodeJS with various open data sources (UK Gov Petitions/BBC news content) with a view to looking at how Vue, Matterialize and custom designs can be used for rendering information and data processing.
 
-This currently includes:
+Petition Summary - This currently includes:
 1, A summary of the popular words which are currently for active 'open' items
 2, An overview summary and detail options for a given selection
+3, The data source uses is https://petition.parliament.uk/
+
+News Summary - This currently includes:
+1, An overview of the current news for the UK from the BBC RSS feeds for the UK.
+2, Headline items, description and published date
 
 Setup:
 npm install express
