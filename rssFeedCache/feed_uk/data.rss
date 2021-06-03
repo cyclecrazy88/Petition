@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 03 Jun 2021 12:21:56 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Napier Barracks: Housing migrants at barracks unlawful, court rules]]></title>
+            <description><![CDATA[Six asylum seekers said Napier Barracks was "unsafe" and dormitory use caused a Covid-19 outbreak.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-57335499</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57335499</guid>
+            <pubDate>Thu, 03 Jun 2021 12:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fishmongers' Hall: Firearms officer thought he was not going home]]></title>
+            <description><![CDATA[Usman Khan was confronted by police on London Bridge after killing two Cambridge graduates.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57322808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57322808</guid>
+            <pubDate>Thu, 03 Jun 2021 11:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesco staff win legal argument in equal pay fight]]></title>
+            <description><![CDATA[A court ruling brings Tesco shop workers a step closer to gaining equal pay with warehouse staff.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57343892</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57343892</guid>
+            <pubDate>Thu, 03 Jun 2021 09:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queen to meet US President Joe Biden next week]]></title>
+            <description><![CDATA[Mr Biden, visiting the UK for the G7 summit, will be the 12th serving US president to meet Her Majesty.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57345764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57345764</guid>
+            <pubDate>Thu, 03 Jun 2021 12:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stranger helps taxi driver from burning car in Welling]]></title>
+            <description><![CDATA[Taxi driver Abdul Awal did not realise his car was ablaze until a stranger ran over to help him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57342160</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57342160</guid>
+            <pubDate>Thu, 03 Jun 2021 12:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympics 100% on - Tokyo 2020 president]]></title>
+            <description><![CDATA[The Tokyo 2020 president is "100%" certain the Olympics will go ahead, but warns they could be held without fans if there is a coronavirus outbreak.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57329388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57329388</guid>
+            <pubDate>Thu, 03 Jun 2021 05:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Working from home: Call to ban out-of-hours emails from bosses]]></title>
+            <description><![CDATA[The UK government is urged to bring in a French-style law giving workers "the right to disconnect".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57314814</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57314814</guid>
+            <pubDate>Wed, 02 Jun 2021 23:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Birmingham stabbing: Man charged with murder of Dea-John Reid]]></title>
+            <description><![CDATA[Detectives investigating the killing of Dea-John Reid say it is a "significant step forward".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57342979</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57342979</guid>
+            <pubDate>Thu, 03 Jun 2021 11:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foreign aid: More Conservative rebels join bid to reverse cuts]]></title>
+            <description><![CDATA[Rebel Tory MPs believe they have enough support to bring spending back to 0.7% of national income.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57338465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57338465</guid>
+            <pubDate>Thu, 03 Jun 2021 10:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: UK open-minded on extending furlough says Michael Gove]]></title>
+            <description><![CDATA[It comes ahead of a Covid summit with Boris Johnson and the first ministers of NI, Scotland and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57337965</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57337965</guid>
+            <pubDate>Thu, 03 Jun 2021 09:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vet drowned with dogs after car became stuck in ford]]></title>
+            <description><![CDATA[An inquest hears Heike Mojay-Sinclare died while driving to a 30th birthday celebration.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-57335740</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-57335740</guid>
+            <pubDate>Thu, 03 Jun 2021 07:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brixton shooting: Crowds throw objects at police]]></title>
+            <description><![CDATA[Police were targeted after being called out to investigate the shooting of a man in his 20s.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57327656</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57327656</guid>
+            <pubDate>Thu, 03 Jun 2021 11:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could phone footage put Myanmar's leaders in jail?]]></title>
+            <description><![CDATA[The UN is gathering video of state-sponsored violence in Myanmar to use as evidence in future trials.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57332985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57332985</guid>
+            <pubDate>Wed, 02 Jun 2021 23:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Children 'let down' and holidays 'under threat']]></title>
+            <description><![CDATA[The front pages lead with reaction to school catch-up plans and warnings over Covid's potential impact on travel abroad.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57338815</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57338815</guid>
+            <pubDate>Thu, 03 Jun 2021 04:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optical illusion of orangutan wins award]]></title>
+            <description><![CDATA[A photo of an orangutan reflected in water has won the Nature TTL Photographer of the Year competition.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57335458</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57335458</guid>
+            <pubDate>Wed, 02 Jun 2021 23:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abortion: Texas teen attacks new law in high school graduation speech]]></title>
+            <description><![CDATA[Paxton Smith says she couldn't stick to her approved speech script "when there is a war on my body".]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57343832</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57343832</guid>
+            <pubDate>Thu, 03 Jun 2021 11:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lesbian magazine Curve 'saved people from loneliness']]></title>
+            <description><![CDATA[New documentary Ahead of the Curve charts the success of the best-selling lesbian magazine.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57332101</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57332101</guid>
+            <pubDate>Wed, 02 Jun 2021 23:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cicadas: What to know about the 'remarkable' and noisy bugs]]></title>
+            <description><![CDATA[Why do billions of cicadas emerge from below ground every 17 years? And why are they so loud?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57335800</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57335800</guid>
+            <pubDate>Wed, 02 Jun 2021 23:22:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mexican mayor defying her husband’s killers]]></title>
+            <description><![CDATA[Carmen Ortiz is running for a second term, even though 12 of her staff have been murdered or are missing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57336254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57336254</guid>
+            <pubDate>Wed, 02 Jun 2021 23:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huge caterpillar web blankets Yorkshire hedgerow]]></title>
+            <description><![CDATA[The web in South Yorkshire is described by one expert as a "very impressive infestation".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-57331703</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-57331703</guid>
+            <pubDate>Wed, 02 Jun 2021 19:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Sea snot' spreads across Turkish sea]]></title>
+            <description><![CDATA[A thick layer of sea snot is spreading in Turkey’s Sea of Marmara to the south of Istanbul.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57336252</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57336252</guid>
+            <pubDate>Wed, 02 Jun 2021 19:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bridget Riley: 'I held a mirror up to human nature and reported faithfully.']]></title>
+            <description><![CDATA[In an exclusive interview, artist Bridget Riley discusses her career, inspiration and mistakes.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57332625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57332625</guid>
+            <pubDate>Wed, 02 Jun 2021 23:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I was so scared of house intruders I went into labour']]></title>
+            <description><![CDATA[A woman tells of the terror she felt when thieves broke into her Edinburgh home in the middle of the night.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57316466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57316466</guid>
+            <pubDate>Thu, 03 Jun 2021 05:36:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pride month: The LGBT history you probably didn't learn in school]]></title>
+            <description><![CDATA[Experts say a focus on minority groups in education would give us a better knowledge of our society.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57176199</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57176199</guid>
+            <pubDate>Wed, 02 Jun 2021 23:51:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The Australian millennials desperate for vaccines]]></title>
+            <description><![CDATA[Locked out of a troubled vaccination scheme, young people are increasingly desperate to get jabbed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57325514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57325514</guid>
+            <pubDate>Wed, 02 Jun 2021 15:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Canada is mourning the deaths of 215 children]]></title>
+            <description><![CDATA[The discovery 215 Indigenous children's remains shocked many. Here's what we know so far.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57325653</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57325653</guid>
+            <pubDate>Wed, 02 Jun 2021 23:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mezcal producers hope to toast brighter future]]></title>
+            <description><![CDATA[Makers of the Mexican spirit mezcal have had a tough lockdown, but hope to see sales rise again.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57231020</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57231020</guid>
+            <pubDate>Wed, 02 Jun 2021 23:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uefa Super Cup game to go ahead in Belfast]]></title>
+            <description><![CDATA[The Uefa Super Cup match between Chelsea and Villarreal will be played in Belfast on 11 August after suggestions it would be moved to Istanbul.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57342317</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57342317</guid>
+            <pubDate>Thu, 03 Jun 2021 11:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World number one Barty retires from French Open with injury]]></title>
+            <description><![CDATA[World number one Ashleigh Barty retires with injury from her second-round match against Magda Linette at the French Open.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57344296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57344296</guid>
+            <pubDate>Thu, 03 Jun 2021 11:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inter Milan announce Inzaghi as new boss]]></title>
+            <description><![CDATA[Inter Milan appoint Simone Inzaghi as manager to replace Antonio Conte, who left the club last week.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57344105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57344105</guid>
+            <pubDate>Thu, 03 Jun 2021 12:09:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England v New Zealand: Mark Wood dismisses Henry Nicholls]]></title>
+            <description><![CDATA[England's Mark Wood claims the first wicket of the day with Ollie Robinson catching Henry Nicholls on day two of the first Test at Lord's.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/57344506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57344506</guid>
+            <pubDate>Thu, 03 Jun 2021 11:25:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Could a third wave change 21 June plans in England?]]></title>
+            <description><![CDATA[Rising coronavirus cases have called the planned 21 June relaxing of rules in England into question.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57328469</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57328469</guid>
+            <pubDate>Wed, 02 Jun 2021 23:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do social distance rules apply after both vaccine jabs?]]></title>
+            <description><![CDATA[Guidance on hugging close friends and family has being relaxed in England and Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Thu, 03 Jun 2021 11:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel guide to Spain, Portugal, France and more holiday hotspots]]></title>
+            <description><![CDATA[What you need to know about travelling abroad to Portugal, Spain, Greece, France, Italy and Turkey.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56997931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56997931</guid>
+            <pubDate>Wed, 02 Jun 2021 16:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
+            <description><![CDATA[Foreign holidays are now possible, but travellers must follow strict rules on their return.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Thu, 03 Jun 2021 12:08:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When can we stop wearing face masks or face coverings?]]></title>
+            <description><![CDATA[Rules are relaxing, but masks are still needed in some settings - here's where and why.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Mon, 17 May 2021 14:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
+            <description><![CDATA[The vaccine rollout is now reaching younger adults. What do they need to know about getting jabbed?]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Tue, 01 Jun 2021 13:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Wed, 02 Jun 2021 16:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Scotland's Covid-19 rules are changing at the weekend - but for many, the lifting of lockdown has been "paused".]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Wed, 02 Jun 2021 16:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympic Games: When are they and will they go ahead despite Covid?]]></title>
+            <description><![CDATA[The Tokyo Summer Olympics are due to start in July, despite a surge in Covid cases in Japan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57240044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57240044</guid>
+            <pubDate>Thu, 03 Jun 2021 09:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How is Europe lifting lockdown restrictions?]]></title>
+            <description><![CDATA[A third Covid wave hit much of Europe hard but now gradually lockdowns are being eased.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Tue, 01 Jun 2021 17:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Tue, 01 Jun 2021 17:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
+            <description><![CDATA[As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Thu, 27 May 2021 10:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine update: Those that work - and the others on the way]]></title>
+            <description><![CDATA[Covid vaccination campaigns are under way in the UK and across the world.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51665497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51665497</guid>
+            <pubDate>Fri, 28 May 2021 13:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown muscle loss: Five ways to get back in shape]]></title>
+            <description><![CDATA[Lockdown inactivity may have left people with weaker muscles - there are simple solutions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56887390</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56887390</guid>
+            <pubDate>Fri, 14 May 2021 23:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What's the risk of Covid on public transport?]]></title>
+            <description><![CDATA[As UK coronavirus restrictions are relaxed, public transport could become much busier.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51736185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51736185</guid>
+            <pubDate>Fri, 21 May 2021 14:39:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How are eviction rules for renters and landlords changing?]]></title>
+            <description><![CDATA[The eviction ban is ending, but what does that mean?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53860154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53860154</guid>
+            <pubDate>Fri, 28 May 2021 16:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Motherload: How pandemic anger almost destroyed a mums' support group]]></title>
+            <description><![CDATA[Abusive messages from angry mums during lockdown almost caused the founder of The Motherload to close it down.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57285368</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57285368</guid>
+            <pubDate>Sun, 30 May 2021 23:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The children selling explicit videos on OnlyFans]]></title>
+            <description><![CDATA[British subscription site OnlyFans is failing to prevent underage users from selling and appearing in explicit videos, a BBC investigation has found.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57255983</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57255983</guid>
+            <pubDate>Wed, 26 May 2021 23:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Ben Crump became America's go-to police brutality lawyer]]></title>
+            <description><![CDATA[When families lose a loved one in a police shooting, more often than not Ben Crump gets a call. Why is he the go-to man?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57038162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57038162</guid>
+            <pubDate>Sat, 29 May 2021 23:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samantha Azzopardi: Australia's notorious con artist sentenced for child theft]]></title>
+            <description><![CDATA[Authorities are baffled by the "bizarre crime" of a serial con artist who has travelled the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57284621</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57284621</guid>
+            <pubDate>Sat, 29 May 2021 23:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After a 32-year battle for justice, what is Hillsborough's legacy?]]></title>
+            <description><![CDATA[As the collapse of the last criminal trial marks the end of a long legal road, Judith Moritz asks what the legacy of Britain’s worst sports disaster is.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57281398</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57281398</guid>
+            <pubDate>Fri, 28 May 2021 23:58:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

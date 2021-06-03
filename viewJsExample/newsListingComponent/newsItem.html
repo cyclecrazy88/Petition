@@ -1,0 +1,8 @@
+<div class="newsContentItem" @click="clickAction($event)" @mouseenter="mouseEnter($event)" @mouseleave="mouseLeave($event)" >
+	<span v-if="!showDesc">
+	{{title}}
+	</span>
+	<span v-else>
+	{{desc}}
+	</span>
+</div>

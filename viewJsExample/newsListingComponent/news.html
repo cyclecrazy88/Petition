@@ -1,0 +1,12 @@
+<div class="newsLayout">
+	<news-content-item
+		v-for="item in newsList" 
+		v-bind:title="item.title" 
+		v-bind:desc="item.desc"
+		v-bind:link="item.link"
+		v-bind:pubDate="item.pubDate"
+		>
+	
+	</news-content-item>
+
+</div>
