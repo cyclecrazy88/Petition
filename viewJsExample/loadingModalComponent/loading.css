@@ -1,0 +1,34 @@
+
+
+div.loadingModalContainer{
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+}
+
+div.loadingModalContainer div.loadingModalBackground{
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	background-color:#f1f7f0;
+	opacity:40%;
+}
+
+div.loadingModalContainer div.loadingModalContainer{
+	position:absolute;
+	left:30%;
+	right:30%;
+	top:30%;
+	height:30px;
+	background-color:white;
+	opacity:100%;
+	box-shadow: 5px 5px;
+	border-radius:15px;
+	color:#f1f7f0;
+	margin:5px;
+	padding:5px;
+}

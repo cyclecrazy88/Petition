@@ -14,7 +14,10 @@
 				</tr>
 			</thead>
 			<tbody>
-			<tr v-for="item in words":key="item.name" @click="rowClick($event)">
+			<tr v-for="item in words":key="item.name" 
+				@click="rowClick($event)"
+				v-bind:word="item.word"
+				v-bind:count="item.count">
 				<td>{{ item.word }}</td>
 				<td>{{ item.count }}</td>
 			</tr>

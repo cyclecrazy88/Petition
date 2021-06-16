@@ -1,0 +1,100 @@
+
+div.modalItemWordSummary{
+
+	position:absolute;
+	left:0px; right:0px;
+	top:0px; bottom:0px;
+	z-index:50;
+}
+
+div.modalItemWordSummary div.backgroundArea{
+	position:absolute;
+	left:0px; right:0px;
+	top:0px; bottom:0px;
+	background-color:#473c19;
+	opacity:20%;
+}
+
+div.modalItemWordSummary div.modalContentArea{
+	position:absolute;
+	left:10%; right:10%;
+	top:10%; bottom:10%;
+	background-color:white;
+	opacity:100%;
+	border-radius:20px;
+	box-shadow:5px 5px lightgray;
+}
+
+div.modalItemWordSummary div.modalContentSubSection{
+	position:absolute;
+	top:50px;
+	right:75%;
+	left:0px;
+	bottom:0px;
+	padding:5px;
+	overflow:auto;
+	
+}
+
+div.modalItemWordSummary div.modalContentDetailSection{
+	position:absolute;
+	left:25%;
+	right:0px;
+	bottom:0px;
+	top:50px;
+	padding:5px;
+	overflow:hidden;
+}
+
+div.modalItemWordSummary div.modalCompareItem{
+	position:relative;
+	border-style:solid;
+	border-width:1px;
+	border-color:lightgray;
+	margin:5px; padding:5px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #473c19; 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: gray; 
+}
+
+div.modalItemWordSummary div.modelAvergageVotingSection{
+	position:relative;
+	width:98.5%;
+	height:49%;
+	border-style:solid;
+	border-color:lightgray;
+	border-width:1px;
+	border-radius:5px;
+	margin:5px;
+	padding:5px;
+	overflow:auto;
+}
+
+div.modalItemWordSummary div.modelAvergageVotingSection > p{
+	text-align:center;
+	width:100%;
+	font-size:1.1em;
+}
+
+div.modalItemWordSummary div.modalContentHeadingSection{
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	height:40px;
+	margin:5px;
+	text-align:center;
+	font-size:1.2em;
+}
+
+

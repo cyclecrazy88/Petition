@@ -1,6 +1,7 @@
 
 var summaryWorker = new Worker("./workerScripts/textSummary.js")
 var detailSummary = new Worker("./workerScripts/detailSummary.js")
+var wordSummaryGrouping = new Worker("./workerScripts/wordSummary.js")
 
 class TableView{
 
@@ -82,13 +83,53 @@ class TableView{
 				},
 				methods:{
 					rowClick:function(itemCell){
-					
+						// Get the selected word for the selection
+						var selectedWord = itemCell.currentTarget.getAttribute("word")
+						if (typeof selectedWord == "string"){
+							thisRef.summaryForWord(selectedWord,tableContainer)
+						}
 					},
 				}
 			})
 			
 			
 		}
+	}
+	
+	async summaryForWord(word,listing){
+		var summaryList = Array()
+		if (listing instanceof Array){
+			for (var listingKey in listing){
+				var listingItem = listing[listingKey]
+				
+				if (typeof listingItem.action == "string" &&
+					listingItem.action.toLowerCase().indexOf(
+					word.toLowerCase())>-1 ){
+					summaryList.push(listingItem)
+				}
+				else if (typeof listingItem.additional_details == "string" &&
+					listingItem.additional_details.toLowerCase().indexOf(
+					word.toLowerCase())>-1 ){
+					summaryList.push(listingItem)
+				}else if(typeof listingItem.background == "string" &&
+					listingItem.background.toLowerCase().indexOf(
+					word.toLowerCase())>-1){
+					summaryList.push(listingItem)
+				}
+				
+			}
+		}
+		var loading = new LoadingModal()
+		var thisRef = this
+		Vue.nextTick(async function(){
+			var data = await thisRef.calculateWordSummary(summaryList)
+			loading.closeModal()
+			var summaryModal = new WordSummaryModal(data,summaryList,word)
+		})
+		
+		
+		
+		return summaryList
 	}
 	
 	displayModalItem(inputData,summary){
@@ -113,6 +154,15 @@ class TableView{
 		detailSummary.postMessage(inputList)
 		return new Promise((result)=>{
 			detailSummary.onmessage = function(resultData){
+				result(resultData.data)
+			}
+		})
+	}
+	
+	calculateWordSummary(inputList){
+		wordSummaryGrouping.postMessage(inputList)
+		return new Promise((result)=>{
+			wordSummaryGrouping.onmessage = function(resultData){
 				result(resultData.data)
 			}
 		})

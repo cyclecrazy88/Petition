@@ -1,0 +1,48 @@
+
+<div class="modalItemWordSummary">
+	<div class="backgroundArea" @click="closeWindow($event)"></div>
+	<div class="modalContentArea">
+		<div class="modalContentHeadingSection">Word Selected: {{word}}</div>
+	
+		<div class="modalContentSubSection">
+			<word-modal-fit-item v-for="item in fit" v-bind:name="item.name" ></word-modal-fit-item>
+		</div>
+		<div class="modalContentDetailSection">
+			<div class="modalUnderAverageVotingTable modelAvergageVotingSection">
+				<p>Lowest Votes</p>
+				<table class="votingContentTable">
+					
+					<tr v-for="rowItem in underAvg">
+						<td v-bind:key="rowItem.key">{{rowItem.key}}</td>
+						
+						<td v-for="(subColumn,index) in rowItem.detail"
+							v-bind:action="subColumn.action"
+							v-bind:signature_count="subColumn.signature_count"
+							v-if="index < 5">
+							{{subColumn.action}} - ({{subColumn.signature_count}})	
+						</td>
+					</tr>
+				
+				</table>
+			
+			</div>
+			<div class="modalOverAverageVotingTable modelAvergageVotingSection">
+				<p>Highest Votes</p>
+				<table class="votingContentTable">
+					<tr v-for="rowItem in overAvg">
+						<td v-bind:key="rowItem.key">{{rowItem.key}}</td>
+						<td v-for="(subColumn,index) in rowItem.detail"
+							v-bind:action="subColumn.action"
+							v-bind:signature_count="subColumn.signature_count"
+							v-if="index < 5">
+							{{subColumn.action}} - ({{subColumn.signature_count}})	
+						</td>
+					</tr>
+				</table>
+			
+			</div>
+			
+		</div>
+	</div>
+</div>
+
