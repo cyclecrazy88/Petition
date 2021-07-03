@@ -23,3 +23,7 @@ Start: node ./webServer.js
 
 Dependances:
 This project uses a mixture of Backbone.js, Tensorflow.js, Matterialize CSS, Vue.js and Vuetify for the GUI rendering and data processing.
+
+Nuxt Example Pages.
+
+The folder "Nuxt Example Pages" contains some Nuxt example pages. Venturing into Nuxt is currrently in progress at the moment.

@@ -45,7 +45,7 @@ class RequestPetitionDetail{
 			var updateTime = new Date()
 			fs.writeFileSync(
 				"./openPetitionCacheDetail/page_"+pageNumber+"/updateEpoc.txt",
-				updateTime.getTime())
+				updateTime.getTime()+"")
 		}
 		data.cached = false
 		return data
